@@ -1,0 +1,1164 @@
+﻿Log file open, 09/27/18 15:02:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VarjoSample
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.698359
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin VarjoHMD
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.154s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-0
+LogInit: Engine Version: 4.20.2-0+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-0+++UE4+Release-4.20
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 18 2018 14:37:17
+LogInit: Compiled with Visual C++: 19.14.26430.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Users/marku/UnrealEngine-4.20-Varjo/UnrealEngine-4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.27-12.02.31:440][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.27-12.02.31:440][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.27-12.02.31:455][  0]LogHAL: Display: Platform has ~ 32 GB [34016522240 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.27-12.02.31:455][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.27-12.02.31:455][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.27-12.02.31:456][  0]LogInit: Computer: DESKTOP-1HEE857
+[2018.09.27-12.02.31:456][  0]LogInit: User: marku
+[2018.09.27-12.02.31:456][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.09.27-12.02.31:456][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2018.09.27-12.02.31:456][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2018.09.27-12.02.31:456][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.27-12.02.31:457][  0]LogMemory: Process Physical Memory: 92.52 MB used, 92.52 MB peak
+[2018.09.27-12.02.31:457][  0]LogMemory: Process Virtual Memory: 82.82 MB used, 82.82 MB peak
+[2018.09.27-12.02.31:457][  0]LogMemory: Physical Memory: 10470.15 MB used,  21970.53 MB free, 32440.68 MB total
+[2018.09.27-12.02.31:457][  0]LogMemory: Virtual Memory: 4657.52 MB used,  21970.53 MB free, 134217728.00 MB total
+[2018.09.27-12.02.32:065][  0]LogInit: Using OS detected language (en-GB).
+[2018.09.27-12.02.32:065][  0]LogInit: Using OS detected locale (en-FI).
+[2018.09.27-12.02.32:066][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.09.27-12.02.32:445][  0]LogStreaming: Display: Took  0.380s to InitEngineTextLocalization.
+[2018.09.27-12.02.32:446][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.27-12.02.32:526][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.27-12.02.32:526][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.27-12.02.38:214][  0]LogHMD: Failed to initialize OpenVR with code 306
+[2018.09.27-12.02.38:214][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.27-12.02.38:284][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.27-12.02.38:284][  0]LogD3D11RHI:       8079/0/16220 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.27-12.02.38:288][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.27-12.02.38:288][  0]LogD3D11RHI:       0/0/16220 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.27-12.02.38:288][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.27-12.02.38:296][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.27-12.02.38:296][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.27-12.02.38:297][  0]LogWindows: EnumDisplayDevices:
+[2018.09.27-12.02.38:297][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.09.27-12.02.38:297][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.27-12.02.38:297][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.27-12.02.38:297][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.27-12.02.38:298][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.27-12.02.38:298][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.27-12.02.38:298][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.09.27-12.02.38:298][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.09.27-12.02.38:298][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.09.27-12.02.38:342][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.27-12.02.38:359][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.27-12.02.38:463][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Documents/Unreal Projects/VarjoSample/Intermediate/Shaders/WorkingDirectory/13456/).
+[2018.09.27-12.02.38:464][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/marku/AppData/Local/Temp/UnrealShaderWorkingDir/B6E3F9804C6B1E6DD83205B0ADAA98A4/'.
+[2018.09.27-12.02.38:689][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.27-12.02.38:709][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.27-12.02.38:729][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.27-12.02.38:748][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.27-12.02.38:772][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.27-12.02.38:796][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.27-12.02.38:816][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.27-12.02.38:838][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.27-12.02.38:854][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.27-12.02.38:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-12.02.38:925][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.27-12.02.39:005][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.27-12.02.39:005][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.27-12.02.39:027][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.27-12.02.39:027][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.27-12.02.39:039][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.27-12.02.39:039][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.27-12.02.39:216][  0]LogXGEController: Cleaning working directory: C:/Users/marku/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.27-12.02.39:216][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.27-12.02.39:216][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.27-12.02.39:216][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.27-12.02.39:952][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.27-12.02.39:953][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.09.27-12.02.39:953][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Unreal Projects/VarjoSample/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.27-12.02.39:953][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.27-12.02.39:953][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.27-12.02.39:953][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2018.09.27-12.02.39:967][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2018.09.27-12.02.39:967][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.27-12.02.39:967][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.27-12.02.40:005][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.27-12.02.40:007][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.27-12.02.40:009][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.27-12.02.40:129][  0]LogAssetRegistry: FAssetRegistry took 0.0500 seconds to start up
+[2018.09.27-12.02.40:616][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.27-12.02.40:914][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.27-12.02.40:914][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.27-12.02.40:914][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.27-12.02.40:914][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2018.09.27-12.02.40:915][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2018.09.27-12.02.40:983][  0]LogNetVersion: VarjoSample 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 362775630)
+[2018.09.27-12.02.42:354][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.152267 seconds
+[2018.09.27-12.02.42:363][  0]LogUObjectArray: 38376 objects as part of root set at end of initial load.
+[2018.09.27-12.02.42:363][  0]LogUObjectAllocator: 6683176 out of 0 bytes used by permanent object pool.
+[2018.09.27-12.02.42:364][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.27-12.02.42:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.09.27-12.02.42:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.09.27-12.02.42:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.09.27-12.02.42:879][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.09.27-12.02.42:879][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.09.27-12.02.42:879][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.09.27-12.02.42:881][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.09.27-12.02.42:881][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.09.27-12.02.42:882][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.09.27-12.02.42:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.09.27-12.02.42:885][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.09.27-12.02.42:886][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.09.27-12.02.42:888][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.09.27-12.02.42:888][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.09.27-12.02.42:891][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.09.27-12.02.42:892][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.09.27-12.02.42:892][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.09.27-12.02.42:892][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.09.27-12.02.42:892][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.09.27-12.02.42:892][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.09.27-12.02.42:892][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.09.27-12.02.42:893][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.09.27-12.02.42:893][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.09.27-12.02.42:893][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.09.27-12.02.42:893][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2018.09.27-12.02.42:893][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2018.09.27-12.02.42:893][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2018.09.27-12.02.42:893][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2018.09.27-12.02.42:893][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2018.09.27-12.02.42:893][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2018.09.27-12.02.42:894][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2018.09.27-12.02.42:895][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2018.09.27-12.02.42:895][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2018.09.27-12.02.42:895][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2018.09.27-12.02.42:895][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2018.09.27-12.02.42:895][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2018.09.27-12.02.42:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2018.09.27-12.02.42:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2018.09.27-12.02.42:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2018.09.27-12.02.42:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2018.09.27-12.02.42:897][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2018.09.27-12.02.42:897][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2018.09.27-12.02.42:897][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2018.09.27-12.02.42:897][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2018.09.27-12.02.42:897][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2018.09.27-12.02.42:897][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2018.09.27-12.02.42:897][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2018.09.27-12.02.42:898][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2018.09.27-12.02.42:900][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.09.27-12.02.42:900][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.09.27-12.02.42:902][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:903][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:903][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:903][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:904][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.09.27-12.02.42:904][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.09.27-12.02.42:904][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:905][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:905][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:905][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:906][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2018.09.27-12.02.42:906][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2018.09.27-12.02.42:907][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:908][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:908][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:908][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:908][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2018.09.27-12.02.42:909][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2018.09.27-12.02.42:910][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:910][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:911][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:912][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:912][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.09.27-12.02.42:913][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.09.27-12.02.42:913][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:913][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:914][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:914][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:914][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.09.27-12.02.42:915][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.09.27-12.02.42:915][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:916][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:916][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:916][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.09.27-12.02.42:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.09.27-12.02.42:918][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:922][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:923][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:923][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:923][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2018.09.27-12.02.42:928][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2018.09.27-12.02.42:928][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:929][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:929][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:932][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:933][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2018.09.27-12.02.42:935][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2018.09.27-12.02.42:935][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:935][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:940][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:941][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.09.27-12.02.42:941][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.09.27-12.02.42:941][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:941][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:945][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:945][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:945][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.09.27-12.02.42:947][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.09.27-12.02.42:947][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:947][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:948][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:949][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:949][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2018.09.27-12.02.42:950][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2018.09.27-12.02.42:950][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:952][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:953][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:956][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:956][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2018.09.27-12.02.42:956][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2018.09.27-12.02.42:956][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:957][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:957][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:957][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:958][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.09.27-12.02.42:959][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.09.27-12.02.42:959][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:960][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:960][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:961][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:964][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.09.27-12.02.42:964][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.09.27-12.02.42:964][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:966][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:966][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:966][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:967][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.09.27-12.02.42:967][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.09.27-12.02.42:967][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:967][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:968][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:968][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:969][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2018.09.27-12.02.42:970][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2018.09.27-12.02.42:970][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:971][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:971][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:972][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2018.09.27-12.02.42:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2018.09.27-12.02.42:973][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:973][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.42:974][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.09.27-12.02.42:975][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.09.27-12.02.44:154][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.27-12.02.44:193][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.27-12.02.44:620][  0]SourceControl: Source control is disabled
+[2018.09.27-12.02.44:620][  0]SourceControl: Source control is disabled
+[2018.09.27-12.02.44:631][  0]SourceControl: Source control is disabled
+[2018.09.27-12.02.44:638][  0]SourceControl: Source control is disabled
+[2018.09.27-12.02.45:060][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.27-12.02.45:254][  0]LogOcInput: OculusInput pre-init called
+[2018.09.27-12.02.45:371][  0]LogEngine: Initializing Engine...
+[2018.09.27-12.02.50:567][  0]LogHMD: Failed to initialize OpenVR with code 306
+[2018.09.27-12.02.50:623][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.27-12.02.50:623][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.27-12.02.50:623][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.27-12.02.50:623][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.27-12.02.51:269][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.27-12.02.51:301][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.27-12.02.51:346][  0]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.27-12.02.51:368][  0]LogInit: FAudioDevice initialized.
+[2018.09.27-12.02.51:369][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.27-12.02.51:410][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB ../../../../../Documents/Unreal Projects/VarjoSample/DerivedDataCache/Boot.ddc.
+[2018.09.27-12.02.51:429][  0]LogInit: Texture streaming: Enabled
+[2018.09.27-12.02.51:486][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.27-12.02.51:513][  0]LogInit: Transaction tracking system initialized
+[2018.09.27-12.02.51:604][  0]BlueprintLog: New page: Editor Load
+[2018.09.27-12.02.51:953][  0]LocalizationService: Localization service is disabled
+[2018.09.27-12.02.52:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marku/Documents/Unreal Projects/VarjoSample/Content/' took 0.01s
+[2018.09.27-12.02.52:384][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.27-12.02.52:384][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.27-12.02.52:384][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.27-12.02.52:384][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.27-12.02.52:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.27-12.02.52:386][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.27-12.02.52:386][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.27-12.02.52:758][  0]SourceControl: Source control is disabled
+[2018.09.27-12.02.52:760][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Users/marku/UnrealEngine-4.20-Varjo/UnrealEngine-4.20/FeaturePacks/StarterContent.upack)
+[2018.09.27-12.02.52:767][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.09.27-12.02.52:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.09.27-12.02.52:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.09.27-12.02.52:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.09.27-12.02.52:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.09.27-12.02.52:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.09.27-12.02.52:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.09.27-12.02.52:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.09.27-12.02.52:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.09.27-12.02.52:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.09.27-12.02.52:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.09.27-12.02.52:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.09.27-12.02.52:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.09.27-12.02.52:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.09.27-12.02.52:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.09.27-12.02.52:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.09.27-12.02.52:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.09.27-12.02.52:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.09.27-12.02.52:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Fire01.uasset"
+[2018.09.27-12.02.52:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.09.27-12.02.52:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.09.27-12.02.52:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.09.27-12.02.52:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Light01.uasset"
+[2018.09.27-12.02.52:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.09.27-12.02.52:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Light02.uasset"
+[2018.09.27-12.02.52:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.09.27-12.02.53:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.09.27-12.02.53:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.09.27-12.02.53:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.09.27-12.02.53:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.09.27-12.02.53:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.09.27-12.02.53:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.09.27-12.02.53:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.09.27-12.02.53:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.09.27-12.02.53:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Steam01.uasset"
+[2018.09.27-12.02.53:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.09.27-12.02.53:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.09.27-12.02.53:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.09.27-12.02.53:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.09.27-12.02.53:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.09.27-12.02.53:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.09.27-12.02.53:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.09.27-12.02.53:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.09.27-12.02.53:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.09.27-12.02.53:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.09.27-12.02.53:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.09.27-12.02.53:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.09.27-12.02.53:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.09.27-12.02.53:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.09.27-12.02.53:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.09.27-12.02.53:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.09.27-12.02.53:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.09.27-12.02.53:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.09.27-12.02.53:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.09.27-12.02.53:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.09.27-12.02.53:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.09.27-12.02.53:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.09.27-12.02.53:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/StarterMap.umap"
+[2018.09.27-12.02.53:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.09.27-12.02.53:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.09.27-12.02.53:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.09.27-12.02.53:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.09.27-12.02.53:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.09.27-12.02.53:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.09.27-12.02.53:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.09.27-12.02.53:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.09.27-12.02.53:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.09.27-12.02.53:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.09.27-12.02.53:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.09.27-12.02.53:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.09.27-12.02.53:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.09.27-12.02.53:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.09.27-12.02.53:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.09.27-12.02.53:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.09.27-12.02.53:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.09.27-12.02.53:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.09.27-12.02.53:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.09.27-12.02.53:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.09.27-12.02.53:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.09.27-12.02.53:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.09.27-12.02.53:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.09.27-12.02.53:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.09.27-12.02.53:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.09.27-12.02.53:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.09.27-12.02.53:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.09.27-12.02.53:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.09.27-12.02.53:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.09.27-12.02.53:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.09.27-12.02.53:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.09.27-12.02.53:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.09.27-12.02.53:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.09.27-12.02.53:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.09.27-12.02.53:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.09.27-12.02.53:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.09.27-12.02.53:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.09.27-12.02.53:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.09.27-12.02.53:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.09.27-12.02.53:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.09.27-12.02.53:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.09.27-12.02.53:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.09.27-12.02.53:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.09.27-12.02.53:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.09.27-12.02.53:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.09.27-12.02.53:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.09.27-12.02.53:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.09.27-12.02.53:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.09.27-12.02.53:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.09.27-12.02.54:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.09.27-12.02.54:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.09.27-12.02.54:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.09.27-12.02.54:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.09.27-12.02.54:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.09.27-12.02.54:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.09.27-12.02.54:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.09.27-12.02.54:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.09.27-12.02.54:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.09.27-12.02.54:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.09.27-12.02.54:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.09.27-12.02.54:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.09.27-12.02.54:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.09.27-12.02.54:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.09.27-12.02.54:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.09.27-12.02.54:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.09.27-12.02.54:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Door.uasset"
+[2018.09.27-12.02.54:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.09.27-12.02.54:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.09.27-12.02.54:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.09.27-12.02.54:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.09.27-12.02.54:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.09.27-12.02.54:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.09.27-12.02.54:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.09.27-12.02.54:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.09.27-12.02.54:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.09.27-12.02.54:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.09.27-12.02.54:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.09.27-12.02.54:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.09.27-12.02.54:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.09.27-12.02.54:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.09.27-12.02.54:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.09.27-12.02.54:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.09.27-12.02.54:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.09.27-12.02.54:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.09.27-12.02.54:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.09.27-12.02.54:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.09.27-12.02.54:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.09.27-12.02.54:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.09.27-12.02.54:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.09.27-12.02.54:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.09.27-12.02.54:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.09.27-12.02.54:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.09.27-12.02.54:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.09.27-12.02.54:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.09.27-12.02.54:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.09.27-12.02.54:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.09.27-12.02.54:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.09.27-12.02.54:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.09.27-12.02.54:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.09.27-12.02.54:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.09.27-12.02.54:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.09.27-12.02.54:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.09.27-12.02.54:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.09.27-12.02.54:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.09.27-12.02.54:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.09.27-12.02.54:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.09.27-12.02.54:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.09.27-12.02.54:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.09.27-12.02.54:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.09.27-12.02.54:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.09.27-12.02.54:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.09.27-12.02.54:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.09.27-12.02.54:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.09.27-12.02.54:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.09.27-12.02.54:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.09.27-12.02.54:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.09.27-12.02.54:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.09.27-12.02.54:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.09.27-12.02.54:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.09.27-12.02.54:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.09.27-12.02.54:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.09.27-12.02.54:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.09.27-12.02.54:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.09.27-12.02.54:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.09.27-12.02.54:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.09.27-12.02.54:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.09.27-12.02.54:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.09.27-12.02.54:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.09.27-12.02.54:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.09.27-12.02.54:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.09.27-12.02.55:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.09.27-12.02.55:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.09.27-12.02.55:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.09.27-12.02.55:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.09.27-12.02.55:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.09.27-12.02.55:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.09.27-12.02.55:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.09.27-12.02.55:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.09.27-12.02.55:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.09.27-12.02.55:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.09.27-12.02.55:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.09.27-12.02.55:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.09.27-12.02.55:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.09.27-12.02.55:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.09.27-12.02.55:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.09.27-12.02.55:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.09.27-12.02.55:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.09.27-12.02.55:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.09.27-12.02.55:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.09.27-12.02.55:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.09.27-12.02.55:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.09.27-12.02.55:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.09.27-12.02.55:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.09.27-12.02.55:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.09.27-12.02.55:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.09.27-12.02.55:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.09.27-12.02.55:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.09.27-12.02.55:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.09.27-12.02.55:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.09.27-12.02.55:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.09.27-12.02.55:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.09.27-12.02.55:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.09.27-12.02.55:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.09.27-12.02.55:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.09.27-12.02.55:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.09.27-12.02.55:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.09.27-12.02.55:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.09.27-12.02.55:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.09.27-12.02.55:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.09.27-12.02.55:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.09.27-12.02.55:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.09.27-12.02.55:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.09.27-12.02.55:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.09.27-12.02.55:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.09.27-12.02.55:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.09.27-12.02.55:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.09.27-12.02.55:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.09.27-12.02.55:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.09.27-12.02.55:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.09.27-12.02.55:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.09.27-12.02.55:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.09.27-12.02.55:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.09.27-12.02.55:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.09.27-12.02.55:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.09.27-12.02.55:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.09.27-12.02.55:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.09.27-12.02.55:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.09.27-12.02.55:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.09.27-12.02.55:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.09.27-12.02.55:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.09.27-12.02.56:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.09.27-12.02.56:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.09.27-12.02.56:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.09.27-12.02.56:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.09.27-12.02.56:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.09.27-12.02.56:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.09.27-12.02.56:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.09.27-12.02.56:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.09.27-12.02.56:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.09.27-12.02.56:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.09.27-12.02.56:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.09.27-12.02.56:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.09.27-12.02.56:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.09.27-12.02.56:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.09.27-12.02.56:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.09.27-12.02.56:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.09.27-12.02.56:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.09.27-12.02.56:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.09.27-12.02.56:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.09.27-12.02.56:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.09.27-12.02.56:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.09.27-12.02.56:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.09.27-12.02.56:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.09.27-12.02.56:421][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.09.27-12.02.56:477][  0]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/VarjoSample/Saved/Floor_400x4003A264E34450F3C3947D208B68EC1E1C8.tmp' to '../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.09.27-12.02.56:485][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.09.27-12.02.56:490][  0]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.27-12.02.56:491][  0]LightingResults: New page: Lighting Build
+[2018.09.27-12.02.56:497][  0]MapCheck: New page: Map Check
+[2018.09.27-12.02.56:498][  0]LightingResults: New page: Lighting Build
+[2018.09.27-12.02.56:816][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.27-12.02.56:824][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.27-12.02.56:859][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.27-12.02.56:929][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.735ms to complete.
+[2018.09.27-12.02.56:929][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.440
+[2018.09.27-12.02.57:043][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-12.02.57:050][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-12.02.57:058][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-12.02.57:066][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-12.02.57:085][  0]LogCollectionManager: Loaded 0 collections in 0.005145 seconds
+[2018.09.27-12.02.57:142][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marku/Documents/Unreal Projects/VarjoSample/Saved/Collections/' took 0.01s
+[2018.09.27-12.02.57:142][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marku/Documents/Unreal Projects/VarjoSample/Content/Developers/marku/Collections/' took 0.01s
+[2018.09.27-12.02.57:142][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marku/Documents/Unreal Projects/VarjoSample/Content/Collections/' took 0.01s
+[2018.09.27-12.02.57:143][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.27-12.02.57:154][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2572 classes and 603 folders.
+[2018.09.27-12.02.57:169][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.27-12.02.57:218][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.27-12.02.57:235][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.27-12.02.57:254][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.27-12.02.57:256][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.27-12.02.57:262][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.27-12.02.57:317][  0]LogRenderer: Reallocating scene render targets to support 1608x816 Format 10 NumSamples 1 (Frame:1).
+[2018.09.27-12.02.57:443][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.27-12.02.57:443][  0]LogLoad: (Engine Initialization) Total time: 28.59 seconds
+[2018.09.27-12.02.57:443][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.27-12.02.57:453][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.27-12.02.57:590][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.27-12.02.57:620][  1]LogAssetRegistry: Asset discovery search completed in 17.5341 seconds
+[2018.09.27-12.02.57:622][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2018.09.27-12.02.57:623][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000162 seconds (updated 0 objects)
+[2018.09.27-12.03.19:547][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.03.21:828][542]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.27-12.03.21:830][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.03.21:869][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.03.21:883][542]LogSlate: Took 0.004929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.27-12.03.31:864][637]Running C:/Users/marku/UnrealEngine-4.20-Varjo/UnrealEngine-4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe Win64 Development -TargetType=Editor -Project="C:/Users/marku/Documents/Unreal Projects/VarjoSample/VarjoSample.uproject" -invalidatemakefilesonly
+[2018.09.27-12.03.32:672][637]Invalidating makefiles only in this run.
+[2018.09.27-12.03.32:806][637]Candidate modules for hot reload:
+[2018.09.27-12.03.32:806][637]  VarjoSample
+[2018.09.27-12.03.32:807][637]Building UnrealBuildTool...
+[2018.09.27-12.03.32:807][637]Building UnrealBuildTool in C:/Users/marku/UnrealEngine-4.20-Varjo/UnrealEngine-4.20/...
+[2018.09.27-12.03.32:807][637]Running: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\MSBuild.exe /nologo /verbosity:quiet "C:/Users/marku/UnrealEngine-4.20-Varjo/UnrealEngine-4.20/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj" /property:Configuration=Development /property:Platform=AnyCPU
+[2018.09.27-12.03.33:215][637]Launching UnrealBuildTool... [C:/Users/marku/UnrealEngine-4.20-Varjo/UnrealEngine-4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=VarjoSample,5138 Win64 Development -TargetType=Editor -Project="../../../../../Documents/Unreal Projects/VarjoSample/VarjoSample.uproject" -canskiplink "C:/Users/marku/Documents/Unreal Projects/VarjoSample/VarjoSample.uproject" ]
+[2018.09.27-12.03.57:607][637]CompilerResultsLog: New page: Compilation - Sep 27, 2018, 6:03:57 PM
+[2018.09.27-12.03.57:607][637]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.09.27-12.03.57:607][637]CompilerResultsLog: Creating makefile for hot reloading VarjoSampleEditor (no existing makefile)
+[2018.09.27-12.03.57:608][637]CompilerResultsLog: Compiling game modules for hot reload
+[2018.09.27-12.03.57:608][637]CompilerResultsLog: Using Visual Studio 2017 14.14.26428 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.09.27-12.03.57:608][637]CompilerResultsLog: C:\Users\marku\UnrealEngine-4.20-Varjo\UnrealEngine-4.20\Engine\Plugins\Runtime\VarjoHMD\Source\VarjoHMD\VarjoHMD.Build.cs: warning: Referenced directory 'C:\Users\marku\UnrealEngine-4.20-Varjo\UnrealEngine-4.20\Engine\Plugins\Runtime\Binaries' does not exist.
+[2018.09.27-12.03.57:608][637]CompilerResultsLog: Parsing headers for VarjoSampleEditor
+[2018.09.27-12.03.57:608][637]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\marku\Documents\Unreal Projects\VarjoSample\VarjoSample.uproject" "C:\Users\marku\Documents\Unreal Projects\VarjoSample\Intermediate\Build\Win64\VarjoSampleEditor\Development\VarjoSampleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors
+[2018.09.27-12.03.57:608][637]CompilerResultsLog: Reflection code generated for VarjoSampleEditor in 12,632493 seconds
+[2018.09.27-12.03.57:608][637]CompilerResultsLog: Building 8 actions with 16 processes...
+[2018.09.27-12.03.57:608][637]CompilerResultsLog:   [1/8] VarjoSample.cpp
+[2018.09.27-12.03.57:608][637]CompilerResultsLog:   [2/8] GazeActor.cpp
+[2018.09.27-12.03.57:608][637]CompilerResultsLog:   [3/8] VarjoSample.init.gen.cpp
+[2018.09.27-12.03.57:609][637]CompilerResultsLog:   [4/8] GazeActor.gen.cpp
+[2018.09.27-12.03.57:609][637]CompilerResultsLog:   [5/8] VarjoSampleGameModeBase.cpp
+[2018.09.27-12.03.57:609][637]CompilerResultsLog:   [6/8] VarjoSampleGameModeBase.gen.cpp
+[2018.09.27-12.03.57:609][637]CompilerResultsLog:   [7/8] UE4Editor-VarjoSample-5138.lib
+[2018.09.27-12.03.57:609][637]CompilerResultsLog:      Creating library C:\Users\marku\Documents\Unreal Projects\VarjoSample\Intermediate\Build\Win64\UE4Editor\Development\VarjoSample\UE4Editor-VarjoSample-5138.lib and object C:\Users\marku\Documents\Unreal Projects\VarjoSample\Intermediate\Build\Win64\UE4Editor\Development\VarjoSample\UE4Editor-VarjoSample-5138.exp
+[2018.09.27-12.03.57:609][637]CompilerResultsLog:   [8/8] UE4Editor-VarjoSample-5138.dll
+[2018.09.27-12.03.57:609][637]CompilerResultsLog:      Creating library C:\Users\marku\Documents\Unreal Projects\VarjoSample\Intermediate\Build\Win64\UE4Editor\Development\VarjoSample\UE4Editor-VarjoSample-5138.suppressed.lib and object C:\Users\marku\Documents\Unreal Projects\VarjoSample\Intermediate\Build\Win64\UE4Editor\Development\VarjoSample\UE4Editor-VarjoSample-5138.suppressed.exp
+[2018.09.27-12.03.57:609][637]CompilerResultsLog: Total build time: 24,19 seconds (Parallel executor: 1,64 seconds)
+[2018.09.27-12.03.57:609][637]LogMainFrame: MainFrame: Module compiling took 24.816 seconds
+[2018.09.27-12.03.57:665][637]LogClass: Could not find existing class GazeActor in package /Script/VarjoSample for HotReload, assuming new class
+[2018.09.27-12.03.57:670][637]LogContentBrowser: Native class hierarchy updated for 'VarjoSample' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2018.09.27-12.03.57:673][637]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.09.27-12.03.57:921][637]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2574 classes and 605 folders.
+[2018.09.27-12.03.57:921][637]Display: HotReload took 25.1s.
+[2018.09.27-12.03.57:923][637]Warning: HotReload operation took 25.1s.
+[2018.09.27-12.03.58:404][637]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.09.27-12.03.58:413][637]LogHotReload: New module detected: UE4Editor-VarjoSample-5138.dll
+[2018.09.27-12.03.58:425][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.03.58:447][638]LogHotReload: Starting Hot-Reload from IDE
+[2018.09.27-12.03.58:500][638]LogContentBrowser: Native class hierarchy updated for 'VarjoSample' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2018.09.27-12.03.58:505][638]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.09.27-12.03.58:554][638]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 2574 classes and 605 folders.
+[2018.09.27-12.03.58:563][638]Display: HotReload took  0.1s.
+[2018.09.27-12.04.05:323][664]LogEditor: Attempting to add actor of class 'GazeActor' to level at -110.00,130.00,30.00
+[2018.09.27-12.04.05:837][711]LogEditor: Attempting to add actor of class 'GazeActor' to level at -170.00,40.00,30.00
+[2018.09.27-12.04.08:248][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.04.10:456][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.04.17:462][997]LogSlate: Took 0.004304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.27-12.04.18:505][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-12.04.31:057][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.04.31:196][432]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/VarjoSample/Saved/Minimal_DefaultB3FB7CB3476C59900DE522A1BB5BE265.tmp' to '../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.27-12.04.31:285][432]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/VarjoSample/Saved/Minimal_Default_BuiltData81DF23894F64097DE28365BD85400253.tmp' to '../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.09.27-12.04.36:161][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.04.36:981][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.04.36:985][ 43]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../Documents/Unreal Projects/VarjoSample/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2018.09.27-12.04.48:940][187]LogSlate: Window 'Plugins' being destroyed
+[2018.09.27-12.04.48:944][187]LogSlate: Window 'Plugins' being destroyed
+[2018.09.27-12.04.48:944][187]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.09.27-12.04.51:997][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.04.52:133][541]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/VarjoSample/Saved/Minimal_DefaultD450072E4C94B740642EA58E0D6E001C.tmp' to '../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.09.27-12.04.52:184][541]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/VarjoSample/Saved/Minimal_Default_BuiltDataF38C09C74F37FEFDCA3D5F89FCEF4978.tmp' to '../../../../../Documents/Unreal Projects/VarjoSample/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.09.27-12.04.57:858][174]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.04.59:874][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.27-12.04.59:874][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.27-12.04.59:890][398]PIE: New page: PIE session: Minimal_Default (Sep 27, 2018, 6:04:59 PM)
+[2018.09.27-12.04.59:891][398]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.09.27-12.04.59:896][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005132s)
+[2018.09.27-12.04.59:897][398]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.09.27-12.04.59:898][398]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2018.09.27-12.04.59:898][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007430s)
+[2018.09.27-12.04.59:989][398]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.27-12.05.00:012][398]LogInit: FAudioDevice initialized.
+[2018.09.27-12.05.00:024][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-12.05.00:028][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-12.05.00:108][398]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/VarjoSample.VarjoSampleGameMode'
+[2018.09.27-12.05.00:109][398]LogLoad: Game class is 'GameModeBase'
+[2018.09.27-12.05.00:111][398]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.09.27-15.05.00
+[2018.09.27-12.05.00:112][398]LogWorld: Bringing up level for play took: 0.001873
+[2018.09.27-12.05.00:171][398]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.09.27-12.05.00:177][398]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.235
+[2018.09.27-12.05.00:178][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.27-12.05.00:242][399]LogRenderer: Reallocating scene render targets to support 4096x3200 Format 10 NumSamples 1 (Frame:1).
+[2018.09.27-12.05.02:017][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.27-12.05.02:018][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-12.05.02:050][463]LogSlate: Window 'VarjoSample Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.27-12.05.02:087][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.27-12.05.02:088][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.09.27-12.05.02:150][464]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.09.27-12.05.03:744][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-12.05.03:875][656]LogSlate: Window 'VarjoSample - Unreal Editor' being destroyed
+[2018.09.27-12.05.03:876][656]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.27-12.05.04:081][657]Cmd: QUIT_EDITOR
+[2018.09.27-12.05.04:207][657]LogExit: Preparing to exit.
+[2018.09.27-12.05.04:418][657]LogExit: Editor shut down
+[2018.09.27-12.05.04:419][657]LogExit: Transaction tracking system shut down
+[2018.09.27-12.05.04:919][657]LogExit: Object subsystem successfully closed.
+[2018.09.27-12.05.04:983][657]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.27-12.05.04:990][657]LogD3D11RHI: Shutdown
+[2018.09.27-12.05.04:990][657]LogD3D11RHI: CleanupD3DDevice
+[2018.09.27-12.05.04:992][657]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.27-12.05.05:015][657]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (600)
+[2018.09.27-12.05.05:015][657]LogModuleManager: Shutting down and abandoning module Voice (598)
+[2018.09.27-12.05.05:015][657]LogModuleManager: Shutting down and abandoning module VarjoSample (596)
+[2018.09.27-12.05.05:015][657]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (594)
+[2018.09.27-12.05.05:015][657]LogModuleManager: Shutting down and abandoning module SceneOutliner (592)
+[2018.09.27-12.05.05:015][657]LogModuleManager: Shutting down and abandoning module AddContentDialog (590)
+[2018.09.27-12.05.05:016][657]LogModuleManager: Shutting down and abandoning module WidgetCarousel (589)
+[2018.09.27-12.05.05:016][657]LogModuleManager: Shutting down and abandoning module EditorWidgets (586)
+[2018.09.27-12.05.05:016][657]LogModuleManager: Shutting down and abandoning module CollectionManager (584)
+[2018.09.27-12.05.05:016][657]LogModuleManager: Shutting down and abandoning module StatsViewer (582)
+[2018.09.27-12.05.05:016][657]LogModuleManager: Shutting down and abandoning module FoliageEdit (580)
+[2018.09.27-12.05.05:016][657]LogModuleManager: Shutting down and abandoning module LandscapeEditor (578)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module MeshPaintMode (576)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (574)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module ActorPickerMode (572)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module GeometryMode (570)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module TextureAlignMode (568)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module BspMode (566)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (564)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (562)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module AutomationWorker (560)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (558)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module SequenceRecorder (557)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (554)
+[2018.09.27-12.05.05:017][657]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (552)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module PlacementMode (551)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module MaterialEditor (550)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (546)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (544)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (542)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (540)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (538)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (536)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (534)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (532)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (530)
+[2018.09.27-12.05.05:018][657]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (528)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (526)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (524)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (522)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module CharacterAI (520)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module SmartSnapping (518)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module SessionServices (516)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module ViewportSnapping (514)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module ViewportInteraction (512)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module ClothPainter (510)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (509)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module LogVisualizer (506)
+[2018.09.27-12.05.05:019][657]LogModuleManager: Shutting down and abandoning module IntroTutorials (504)
+[2018.09.27-12.05.05:020][657]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (503)
+[2018.09.27-12.05.05:020][657]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (500)
+[2018.09.27-12.05.05:020][657]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (498)
+[2018.09.27-12.05.05:020][657]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (496)
+[2018.09.27-12.05.05:020][657]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (494)
+[2018.09.27-12.05.05:020][657]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (493)
+[2018.09.27-12.05.05:597][657]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (490)
+[2018.09.27-12.05.05:597][657]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (488)
+[2018.09.27-12.05.05:597][657]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (486)
+[2018.09.27-12.05.05:597][657]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (484)
+[2018.09.27-12.05.05:597][657]LogModuleManager: Shutting down and abandoning module InputBindingEditor (482)
+[2018.09.27-12.05.05:597][657]LogModuleManager: Shutting down and abandoning module MergeActors (480)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (478)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module LocalizationService (477)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module HardwareTargeting (474)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (472)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module UndoHistory (470)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module XmlParser (468)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module Blutility (466)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (464)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (463)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (460)
+[2018.09.27-12.05.05:598][657]LogModuleManager: Shutting down and abandoning module SettingsEditor (458)
+[2018.09.27-12.05.05:599][657]LogModuleManager: Shutting down and abandoning module ProjectLauncher (456)
+[2018.09.27-12.05.05:599][657]LogModuleManager: Shutting down and abandoning module SessionFrontend (454)
+[2018.09.27-12.05.05:599][657]LogModuleManager: Shutting down and abandoning module ProfilerClient (452)
+[2018.09.27-12.05.05:599][657]LogModuleManager: Shutting down and abandoning module DeviceManager (450)
+[2018.09.27-12.05.05:599][657]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (449)
+[2018.09.27-12.05.05:654][657]LogModuleManager: Shutting down and abandoning module AutomationController (446)
+[2018.09.27-12.05.05:654][657]LogModuleManager: Shutting down and abandoning module AutomationWindow (444)
+[2018.09.27-12.05.05:654][657]LogModuleManager: Shutting down and abandoning module Layers (442)
+[2018.09.27-12.05.05:654][657]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (440)
+[2018.09.27-12.05.05:654][657]LogModuleManager: Shutting down and abandoning module DetailCustomizations (438)
+[2018.09.27-12.05.05:654][657]LogModuleManager: Shutting down and abandoning module PackagesDialog (436)
+[2018.09.27-12.05.05:654][657]LogModuleManager: Shutting down and abandoning module Persona (434)
+[2018.09.27-12.05.05:655][657]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (433)
+[2018.09.27-12.05.05:655][657]LogModuleManager: Shutting down and abandoning module AnimGraph (431)
+[2018.09.27-12.05.05:655][657]LogModuleManager: Shutting down and abandoning module Kismet (428)
+[2018.09.27-12.05.05:655][657]LogModuleManager: Shutting down and abandoning module GraphEditor (426)
+[2018.09.27-12.05.05:655][657]LogModuleManager: Shutting down and abandoning module ClassViewer (424)
+[2018.09.27-12.05.05:657][657]LogModuleManager: Shutting down and abandoning module Toolbox (422)
+[2018.09.27-12.05.05:657][657]LogModuleManager: Shutting down and abandoning module DesktopPlatform (421)
+[2018.09.27-12.05.05:657][657]LogModuleManager: Shutting down and abandoning module ModuleUI (418)
+[2018.09.27-12.05.05:657][657]LogModuleManager: Shutting down and abandoning module MovieSceneTools (416)
+[2018.09.27-12.05.05:657][657]LogModuleManager: Shutting down and abandoning module OutputLog (414)
+[2018.09.27-12.05.05:657][657]LogModuleManager: Shutting down and abandoning module GammaUI (412)
+[2018.09.27-12.05.05:657][657]LogModuleManager: Shutting down and abandoning module Documentation (410)
+[2018.09.27-12.05.05:657][657]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (408)
+[2018.09.27-12.05.05:658][657]LogModuleManager: Shutting down and abandoning module MovieScene (406)
+[2018.09.27-12.05.05:658][657]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (404)
+[2018.09.27-12.05.05:658][657]LogModuleManager: Shutting down and abandoning module LauncherPlatform (402)
+[2018.09.27-12.05.05:658][657]LogModuleManager: Shutting down and abandoning module AnalyticsET (400)
+[2018.09.27-12.05.05:658][657]LogModuleManager: Shutting down and abandoning module PortalServices (398)
+[2018.09.27-12.05.05:658][657]LogModuleManager: Shutting down and abandoning module PortalRpc (396)
+[2018.09.27-12.05.05:659][657]LogModuleManager: Shutting down and abandoning module MessagingRpc (394)
+[2018.09.27-12.05.05:659][657]LogModuleManager: Shutting down and abandoning module AIModule (392)
+[2018.09.27-12.05.05:659][657]LogModuleManager: Shutting down and abandoning module GameplayDebugger (391)
+[2018.09.27-12.05.05:659][657]LogModuleManager: Shutting down and abandoning module AITestSuite (389)
+[2018.09.27-12.05.05:659][657]LogModuleManager: Shutting down and abandoning module NavigationSystem (387)
+[2018.09.27-12.05.05:659][657]LogModuleManager: Shutting down and abandoning module ProfilerService (384)
+[2018.09.27-12.05.05:799][657]LogModuleManager: Shutting down and abandoning module TaskGraph (382)
+[2018.09.27-12.05.05:799][657]LogModuleManager: Shutting down and abandoning module SteamVRController (380)
+[2018.09.27-12.05.05:799][657]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (378)
+[2018.09.27-12.05.05:799][657]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (376)
+[2018.09.27-12.05.05:800][657]LogModuleManager: Shutting down and abandoning module OculusInput (374)
+[2018.09.27-12.05.05:800][657]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (372)
+[2018.09.27-12.05.05:800][657]LogModuleManager: Shutting down and abandoning module EditableMesh (370)
+[2018.09.27-12.05.05:800][657]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (368)
+[2018.09.27-12.05.05:800][657]LogModuleManager: Shutting down and abandoning module CableComponent (366)
+[2018.09.27-12.05.05:800][657]LogModuleManager: Shutting down and abandoning module AudioCapture (364)
+[2018.09.27-12.05.05:800][657]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (362)
+[2018.09.27-12.05.05:800][657]LogModuleManager: Shutting down and abandoning module AndroidPermission (360)
+[2018.09.27-12.05.05:800][657]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (358)
+[2018.09.27-12.05.05:801][657]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (356)
+[2018.09.27-12.05.05:801][657]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (354)
+[2018.09.27-12.05.05:801][657]LogModuleManager: Shutting down and abandoning module MediaCompositing (352)
+[2018.09.27-12.05.05:801][657]LogModuleManager: Shutting down and abandoning module LinearTimecode (350)
+[2018.09.27-12.05.05:801][657]LogModuleManager: Shutting down and abandoning module ImgMedia (348)
+[2018.09.27-12.05.05:813][657]LogModuleManager: Shutting down and abandoning module HTML5Networking (346)
+[2018.09.27-12.05.05:814][657]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (344)
+[2018.09.27-12.05.05:814][657]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (342)
+[2018.09.27-12.05.05:814][657]LogModuleManager: Shutting down and abandoning module BackChannel (340)
+[2018.09.27-12.05.05:814][657]LogModuleManager: Shutting down and abandoning module AppleVision (338)
+[2018.09.27-12.05.05:814][657]LogModuleManager: Shutting down and abandoning module AppleImageUtils (336)
+[2018.09.27-12.05.05:814][657]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.09.27-12.05.05:814][657]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.09.27-12.05.05:815][657]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.09.27-12.05.05:815][657]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.09.27-12.05.05:815][657]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (326)
+[2018.09.27-12.05.05:815][657]LogModuleManager: Shutting down and abandoning module DatasmithContent (324)
+[2018.09.27-12.05.05:816][657]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (322)
+[2018.09.27-12.05.05:816][657]LogModuleManager: Shutting down and abandoning module PluginBrowser (320)
+[2018.09.27-12.05.05:816][657]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (318)
+[2018.09.27-12.05.05:816][657]LogModuleManager: Shutting down and abandoning module PolygonModeling (316)
+[2018.09.27-12.05.05:816][657]LogModuleManager: Shutting down and abandoning module MeshEditor (314)
+[2018.09.27-12.05.05:816][657]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (312)
+[2018.09.27-12.05.05:816][657]LogModuleManager: Shutting down and abandoning module CryptoKeys (310)
+[2018.09.27-12.05.05:816][657]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (308)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (306)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module UObjectPlugin (304)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (302)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (300)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module GitSourceControl (298)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module SourceControl (297)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (294)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (292)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (290)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (288)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module Paper2DEditor (286)
+[2018.09.27-12.05.05:817][657]LogModuleManager: Shutting down and abandoning module MeshPaint (285)
+[2018.09.27-12.05.05:818][657]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (280)
+[2018.09.27-12.05.05:818][657]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (278)
+[2018.09.27-12.05.05:818][657]LogModuleManager: Shutting down and abandoning module PhysXVehicles (276)
+[2018.09.27-12.05.05:818][657]LogModuleManager: Shutting down and abandoning module OculusEditor (274)
+[2018.09.27-12.05.05:818][657]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (272)
+[2018.09.27-12.05.05:818][657]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (270)
+[2018.09.27-12.05.05:818][657]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (268)
+[2018.09.27-12.05.05:818][657]LogModuleManager: Shutting down and abandoning module ActorSequence (266)
+[2018.09.27-12.05.05:818][657]LogModuleManager: Shutting down and abandoning module UdpMessaging (264)
+[2018.09.27-12.05.05:919][657]LogModuleManager: Shutting down and abandoning module TcpMessaging (262)
+[2018.09.27-12.05.06:020][657]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (260)
+[2018.09.27-12.05.06:020][657]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (258)
+[2018.09.27-12.05.06:020][657]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (256)
+[2018.09.27-12.05.06:020][657]LogModuleManager: Shutting down and abandoning module FacialAnimation (254)
+[2018.09.27-12.05.06:020][657]LogModuleManager: Shutting down and abandoning module DataValidation (252)
+[2018.09.27-12.05.06:020][657]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (250)
+[2018.09.27-12.05.06:020][657]LogModuleManager: Shutting down and abandoning module LevelEditor (249)
+[2018.09.27-12.05.06:021][657]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (248)
+[2018.09.27-12.05.06:021][657]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (246)
+[2018.09.27-12.05.06:021][657]LogModuleManager: Shutting down and abandoning module MainFrame (244)
+[2018.09.27-12.05.06:021][657]LogModuleManager: Shutting down and abandoning module HotReload (243)
+[2018.09.27-12.05.06:022][657]LogModuleManager: Shutting down and abandoning module ContentBrowser (239)
+[2018.09.27-12.05.06:023][657]LogModuleManager: Shutting down and abandoning module TreeMap (237)
+[2018.09.27-12.05.06:024][657]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (234)
+[2018.09.27-12.05.06:024][657]LogModuleManager: Shutting down and abandoning module AISupportModule (232)
+[2018.09.27-12.05.06:024][657]LogModuleManager: Shutting down and abandoning module Paper2D (230)
+[2018.09.27-12.05.06:024][657]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (228)
+[2018.09.27-12.05.06:024][657]LogModuleManager: Shutting down and abandoning module WmfMedia (226)
+[2018.09.27-12.05.06:029][657]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.09.27-12.05.06:037][657]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.09.27-12.05.06:037][657]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.09.27-12.05.06:037][657]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.09.27-12.05.06:037][657]LogModuleManager: Shutting down and abandoning module MediaAssets (216)
+[2018.09.27-12.05.06:037][657]LogModuleManager: Shutting down and abandoning module Overlay (214)
+[2018.09.27-12.05.06:037][657]LogModuleManager: Shutting down and abandoning module OverlayEditor (213)
+[2018.09.27-12.05.06:037][657]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.09.27-12.05.06:037][657]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.09.27-12.05.06:037][657]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.09.27-12.05.06:038][657]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.09.27-12.05.06:038][657]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.09.27-12.05.06:038][657]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.09.27-12.05.06:038][657]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.09.27-12.05.06:038][657]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.09.27-12.05.06:038][657]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.09.27-12.05.06:038][657]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.09.27-12.05.06:038][657]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.09.27-12.05.06:038][657]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.09.27-12.05.06:039][657]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.09.27-12.05.06:039][657]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.09.27-12.05.06:040][657]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.09.27-12.05.06:040][657]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.09.27-12.05.06:040][657]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.09.27-12.05.06:040][657]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.09.27-12.05.06:040][657]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.09.27-12.05.06:040][657]LogModuleManager: Shutting down and abandoning module Core (170)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module KismetCompiler (166)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module MeshUtilities (164)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (163)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (162)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (161)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (159)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module MaterialBaking (155)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (151)
+[2018.09.27-12.05.06:041][657]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.09.27-12.05.06:047][657]LogDerivedDataCache: Shutdown
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module XGEController (146)
+[2018.09.27-12.05.06:048][657]LogXGEController: Cleaning working directory: C:/Users/marku/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module TargetPlatform (144)
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (143)
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.09.27-12.05.06:048][657]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.09.27-12.05.06:050][657]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.09.27-12.05.06:050][657]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.09.27-12.05.06:050][657]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2018.09.27-12.05.06:050][657]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2018.09.27-12.05.06:051][657]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2018.09.27-12.05.06:051][657]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (117)
+[2018.09.27-12.05.06:051][657]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.09.27-12.05.06:052][657]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.09.27-12.05.06:052][657]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.09.27-12.05.06:053][657]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.09.27-12.05.06:053][657]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.09.27-12.05.06:058][657]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.09.27-12.05.06:059][657]LogModuleManager: Shutting down and abandoning module VarjoHMD (80)
+[2018.09.27-12.05.06:061][657]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2018.09.27-12.05.06:061][657]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2018.09.27-12.05.06:061][657]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2018.09.27-12.05.06:061][657]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2018.09.27-12.05.06:061][657]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2018.09.27-12.05.06:061][657]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2018.09.27-12.05.06:063][657]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.27-12.05.06:063][657]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.27-12.05.06:063][657]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA9966374-42F3-E66F-3BF2-C8B7E20C991B%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.20.2-0%2B%2B%2BUE4%2BRelease-4.20&UserID=cb1b07d64729f4684302e9947e870c51%7C274a609931a44eaaab934a0ccc08f3dc%7C3db286c3-b8e1-481c-862f-340fefd2e08d&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2018.09.27-12.05.06:084][657]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.27-12.05.06:086][657]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.27-12.05.06:086][657]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.27-12.05.06:086][657]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.27-12.05.06:086][657]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.27-12.05.06:086][657]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.27-12.05.06:086][657]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.27-12.05.06:087][657]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.27-12.05.06:087][657]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.27-12.05.06:087][657]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.27-12.05.06:087][657]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.27-12.05.06:087][657]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.27-12.05.06:087][657]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.27-12.05.06:087][657]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.27-12.05.06:087][657]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.27-12.05.06:087][657]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.27-12.05.06:089][657]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.27-12.05.06:089][657]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.27-12.05.06:089][657]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.27-12.05.06:090][657]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.27-12.05.06:139][657]LogExit: Exiting.
+[2018.09.27-12.05.06:163][657]Log file closed, 09/27/18 15:05:06
