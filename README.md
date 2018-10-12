@@ -6,7 +6,7 @@ Unreal example projects. Example folder(s) explained under:
 ## VarjoSample
 
 Using Varjo Gaze API, device buttons and Vive controllers with Unreal Engine 4.20 and VarjoHMD.
-Follow the next steps to get the Vive controller example scene running in Varjo HMD.
+Follow the next steps to get example scene and features running with Varjo HMD.
 
 ###### Prerequisites:
 
