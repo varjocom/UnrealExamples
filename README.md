@@ -10,7 +10,7 @@ Follow the next steps to get the Vive controller example scene running in Varjo 
 
 ###### Prerequisites:
 
-    Varjo environment installed and Varjo Unreal Engine 4.20 compiled from separate repository.
+-   Varjo environment installed and Varjo Unreal Engine 4.20 compiled from separate repository.
 
 ###### Install Steam
 
