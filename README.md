@@ -50,6 +50,6 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 
 -----------------------------------------------------------------------------------------------------
 
-## HOWTO_CreatePawn (will be available 0.7.x release, NOT supported yet with 0.6.0 release)
+## HOWTO_CreatePawn 
 
 Simple example howto create pawn for headset that can be moved and rotated with keys.
