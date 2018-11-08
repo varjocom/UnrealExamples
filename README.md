@@ -35,7 +35,7 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 -   Right click the VarjoSample.uproject file in VarjoUnrealExamples\VarjoSample, select
     "Switch Unreal Engine version..." and select engine folder compiled by you from the list.
 
--   Open project to Visual Studio by double clicking the .sln file.
+-   Open project to by double clicking the .uproject file.
 
 -   Press VR Preview from play menu.
 
@@ -48,3 +48,8 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 
 -   Now you should see a ball following your gaze at two meters away from you.
 
+-----------------------------------------------------------------------------------------------------
+
+## HOWTO_CreatePawn 
+
+Simple example howto create pawn for headset that can be moved and rotated with keys.

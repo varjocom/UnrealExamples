@@ -1,0 +1,33 @@
+At project main view level,
+-Click "Add New" 
+-Click "Blueprint Class"
+-Click "Pawn", name it as "START"
+
+Double click new pawn
+
+Click Add
+-New Component
+-Floating Pawn Movement
+
+Click Add
+-New Component
+-RotatingMovement
+-Click RotatingMovement
+-Set Rotation Rate to zeros
+
+Click Add
+-New Component
+-Camera
+
+Select root, named like next: "START (self)"
+-Set "Auto Posess Player" to  "Player 0"
+
+Event Graph Edit
+-Go to event graph
+-Select all
+-Delete all
+-Copy all from BluePrint.txt
+-Paste it to event graph. You should see graph appearing.
+
+Add Pawn to your scene. For example, you can drag the START blueprint to scene.
+-WASD/QE should work for movement, ZX for rotation
