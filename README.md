@@ -27,6 +27,8 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 -   Right click the SteamVR tray icon and select 'Devices' -> 'Pair Controller' and follow
     the instructions.
 
+-   From the tray, right click SteamVR icon and select quit.
+
 -   Open Services application, find 'Varjo Process Server' from the list, right click it and
     select Start.
 
