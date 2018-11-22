@@ -48,7 +48,7 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 -   Click the application button (the upper one) from the HMD and follow the instructions to
     complete the gaze calibration.
 
--   Now you should see a ball following your gaze at two meters away from you.
+-   Now you should see a ball following your gaze two meters away from you.
 
 -----------------------------------------------------------------------------------------------------
 
