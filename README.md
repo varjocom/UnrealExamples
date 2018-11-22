@@ -27,7 +27,7 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 -   Right click the SteamVR tray icon and select 'Devices' -> 'Pair Controller' and follow
     the instructions.
 
--   From the tray, right click SteamVR icon and select quit.
+-   From the tray, right click SteamVR icon and select 'Quit'.
 
 -   Open Services application, find 'Varjo Process Server' from the list, right click it and
     select Start.
@@ -35,13 +35,18 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 ###### Get started with the example project
 
 -   Right click the VarjoSample.uproject file in VarjoUnrealExamples\VarjoSample, select
-    "Switch Unreal Engine version..." and select engine folder compiled by you from the list.
+    "Switch Unreal Engine version..." and select the engine folder compiled by you from the list.
 
--   Open project to by double clicking the .uproject file.
+-   Open the project by double clicking the .uproject file.
 
--   Press VR Preview from play menu.
+-   Press 'VR Preview' from the play menu.
 
--   Now you should see the scene and paired Vive controllers in Varjo HMD.
+-   Now you should see the scene in Varjo HMD.
+
+-   When controllers are on and paired they should be visible, so that they are on the table when they
+    are not tracking and in their correct positions when they are tracking.
+
+-   The battery level status of a controller is shown in an icon on the controller surface.
 
 ###### Setup and use gaze tracking
 
