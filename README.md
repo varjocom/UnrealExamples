@@ -5,12 +5,12 @@ Unreal example projects. Example folder(s) explained under:
 
 ## VarjoSample
 
-Using Varjo Gaze API, device buttons and Vive controllers with Unreal Engine 4.20 and VarjoHMD.
+Using Varjo Eye Tracking API, device buttons and Vive controllers with Unreal Engine 4.21 and VarjoHMD.
 Follow the next steps to get example scene and features running with Varjo HMD.
 
 ###### Prerequisites:
 
--   Varjo environment installed and Varjo Unreal Engine 4.20 compiled from separate repository.
+-   Varjo environment installed and Varjo Unreal Engine 4.21 compiled from separate repository.
 
 ###### Install Steam
 
@@ -43,28 +43,27 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 
 -   Now you should see the scene in Varjo HMD.
 
--   When controllers are on and paired they should be visible, so that they are on the table when they
-    are not tracking and in their correct positions when they are tracking.
+-   When controllers are on and paired they should be visible, so that they are on the table when
+	they are not tracking and in their correct positions when they are tracking.
 
 -   The battery level status of a controller is shown in an icon on the controller surface.
 
--	Valve Knuckles are also shown as Vive controllers. Valve Knuckles grip sensors don't work yet.
+-	Valve Knuckles are also shown as Vive controllers in the scene. Valve Knuckles grip sensors don't
+	work yet.
 
-###### Setup and use gaze tracking
+###### Controller and eye tracking interactions
 
--   Click the application button (the upper one) from the HMD and follow the instructions to
-    complete the gaze calibration.
-
--   Now you should see a ball following your gaze two meters away from you.
-
-###### Controller and gaze interactions
-
--	Instructions on how to use controllers and gaze to interact with the scene can be found from the
-	scene floating in the air.
+-	Instructions on how to use controllers and eye tracking to interact with the scene can be found 
+	from the scene floating in the air.
 	
 -	The blueprint that contains all of the controller logic can be found from 
 	VarjoUnrealExamples\VarjoSample\Content\ControllerSetup\VRPawn.uasset.
+	
+-	The blueprint which handles the eye tracking interactions can be found from
+    VarjoUnrealExamples\VarjoSample\Content\VarjoContent\Blueprints\ActorSelectionBP.uasset.
 
+-	The level blueprint of the Minimal_Default level handles device button events and eye tracking
+	calibration requests.
 -----------------------------------------------------------------------------------------------------
 
 ## HOWTO_CreatePawn 
