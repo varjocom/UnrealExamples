@@ -16,7 +16,7 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 
 -   Download and install Steam from https://store.steampowered.com/about/ .
 
-###### Pair the Vive controllers with your PC
+###### Pair the Vive controllers or Valve Knuckles with your PC
 
 -   Open Services application. To find it click Start and type "Services".
 
@@ -48,12 +48,22 @@ Follow the next steps to get example scene and features running with Varjo HMD.
 
 -   The battery level status of a controller is shown in an icon on the controller surface.
 
+-	Valve Knuckles are also shown as Vive controllers. Valve Knuckles grip sensors don't work yet.
+
 ###### Setup and use gaze tracking
 
 -   Click the application button (the upper one) from the HMD and follow the instructions to
     complete the gaze calibration.
 
 -   Now you should see a ball following your gaze two meters away from you.
+
+###### Controller and gaze interactions
+
+-	Instructions on how to use controllers and gaze to interact with the scene can be found from the
+	scene floating in the air.
+	
+-	The blueprint that contains all of the controller logic can be found from 
+	VarjoUnrealExamples\VarjoSample\Content\ControllerSetup\VRPawn.uasset.
 
 -----------------------------------------------------------------------------------------------------
 
