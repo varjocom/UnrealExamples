@@ -8,7 +8,7 @@ public class VarjoSample : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "VarjoHMD" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "VarjoHMD", "VarjoEyeTracker" });
         PublicIncludePathModuleNames.AddRange(new string[] { "VarjoHMD" });
 
         PrivateDependencyModuleNames.AddRange(new string[] { "HeadMountedDisplay" });
