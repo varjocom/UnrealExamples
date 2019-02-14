@@ -17,6 +17,3 @@ AActor* UVarjoBlueprintFunctionLibrary::CloneActor(AActor * pActor)
 	spawnParam.Owner = pActor->GetOwner();
 	return pActor->GetWorld()->SpawnActor(pActor->GetClass(), nullptr, spawnParam);
 }
-
-
-

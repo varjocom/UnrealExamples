@@ -6,9 +6,6 @@
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "VarjoBlueprintFunctionLibrary.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class VARJOSAMPLE_API UVarjoBlueprintFunctionLibrary : public UBlueprintFunctionLibrary
 {
