@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright Varjo Technologies Oy. All Rights Reserved.
 
 #include "VarjoBlueprintFunctionLibrary.h"
 
@@ -17,6 +17,3 @@ AActor* UVarjoBlueprintFunctionLibrary::CloneActor(AActor * pActor)
 	spawnParam.Owner = pActor->GetOwner();
 	return pActor->GetWorld()->SpawnActor(pActor->GetClass(), nullptr, spawnParam);
 }
-
-
-

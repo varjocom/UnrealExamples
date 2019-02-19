@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright Varjo Technologies Oy. All Rights Reserved.
 
 #pragma once
 
@@ -6,15 +6,8 @@
 #include "GameFramework/GameModeBase.h"
 #include "VarjoSampleGameModeBase.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class VARJOSAMPLE_API AVarjoSampleGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
-	
-	
-	
 };
